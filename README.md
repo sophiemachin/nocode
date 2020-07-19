@@ -50,4 +50,9 @@ I know right?
 
 ## Contributing
 
-You don't.
+You don't. Just type
+
+```
+
+```
+
